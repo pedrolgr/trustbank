@@ -27,10 +27,10 @@ export const NavbarContainer = styled.nav`
     height: 5rem;
     display: flex;
     align-items: center;
-    padding: 0 10rem; 
+    padding: 0 16rem; 
     position: fixed;
     top: 0;
-
+    z-index: 9999;
     @media (max-width: 1440px) {
         padding: 0 2.5rem;
     }
