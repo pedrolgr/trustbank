@@ -4,28 +4,6 @@ import { HeaderStyled } from './HeaderStyles'
 function HeaderStyles() {
   return (
     <HeaderStyled>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
-        <div>AAAAAAAA</div>
     </HeaderStyled>
   )
 }

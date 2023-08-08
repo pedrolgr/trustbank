@@ -23,11 +23,13 @@ export const LogoImg = styled.img`
 
 export const NavbarContainer = styled.nav`
     width: 100%;
+    background-color: white;
     height: 5rem;
     display: flex;
     align-items: center;
-    padding: 0 10rem;
-    position: relative;
+    padding: 0 10rem; 
+    position: fixed;
+    top: 0;
 
     @media (max-width: 1440px) {
         padding: 0 2.5rem;

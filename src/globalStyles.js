@@ -10,6 +10,5 @@ export const GlobalStyle = createGlobalStyle`
     body {
         font-size: 16px;
         font-family: 'Poppins', sans-serif;
-        overflow: hidden;
     }
 `
